@@ -5,7 +5,7 @@
 <h3 align="center">IoT-Based Home Automation and Safety System</h3>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Subject-IoT%20%26%20Embedded%20Systems-006400?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Subject-Embedded%20Systems-006400?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/Microcontroller-ESP32-1E3A8A?style=for-the-badge&logo=espressif&logoColor=white" />
   <img src="https://img.shields.io/badge/Simulation-Proteus-FF8C00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/PCB-Vero%20Board-8B0000?style=for-the-badge" />
