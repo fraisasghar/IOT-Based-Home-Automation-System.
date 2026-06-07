@@ -1,4 +1,4 @@
-s<div align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a472a,100:0d8abc&height=200&section=header&text=IoT%20Home%20Automation&fontSize=48&fontAlign=50&fontAlignY=55&animation=fadeIn&fontColor=ffffff&desc=ESP32%20|%20Gas%20Detection%20|%20Smart%20Lock%20|%20Water%20Management&descAlign=50&descAlignY=88&descSize=18&descColor=fce4ec&shadow=true" alt="Header" />
 </div>
 
