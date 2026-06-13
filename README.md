@@ -37,23 +37,19 @@ This project presents an **IoT-based smart home automation system** built around
 <img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/d0d47b0c-42a2-4ec3-9e67-e3da01fbad86" />
 <img width="1042" height="1416" alt="image" src="https://github.com/user-attachments/assets/a9f9e826-b63d-4016-bc61-e11519cfe121" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/b442329f-be65-4aa7-bdc0-d52e3fa397ff" />
+
+
+
+<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/00e3e01c-93fd-4516-91a6-b659b639aab4" />
+<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/a269a591-943c-4aae-8b9f-243232c16ecf" />
+<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/9d428b3f-3666-4b1a-8f4d-17dd0691b60e" />
+<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/3abb5fe7-7bdf-4502-8475-4718b5b7a20c" />
+<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/baa00a6c-a76a-4245-8c4a-afcce4df5a45" />
+
+
+
+
 <img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/fd460904-dbcd-49da-a9ac-ae9e76b12191" />
 <img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/50c871ad-5ccc-4ec5-9429-5fc81cc8023d" />
 
