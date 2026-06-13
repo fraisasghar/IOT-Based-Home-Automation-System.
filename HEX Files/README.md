@@ -1,2 +1,2 @@
 
-## .HEX Files are all components are placed here
+## .HEX Files of all components are placed here
